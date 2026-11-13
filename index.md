@@ -13,7 +13,7 @@ Globi is a free geography learning game for iPhone with 4,700+ fact-checked ques
 
 Having trouble, found a wrong answer, or want to suggest a feature? Email us — we read everything:
 
-**ejbarness@icloud.com**
+**support@playglobi.com**
 
 When reporting a problem, it helps to include your iOS version and what you were doing when it happened.
 

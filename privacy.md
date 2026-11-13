@@ -25,7 +25,7 @@ In this policy, **Settings** means the screen you open by tapping the gear icon 
 
 Globi is developed and run by Eugene Barnes, an independent developer ("we", "us").
 
-Questions, requests, or concerns: **ejbarness@icloud.com**
+Questions, requests, or concerns: **privacy@playglobi.com**
 
 ## What we collect and why
 
@@ -216,7 +216,7 @@ When you delete your account or data, it's removed from our live database right 
   - This immediately and permanently deletes your sign-in record, leaderboard profile, and synced progress and settings from our database. It can't be undone.
   - It does **not** cancel a Globi Pro subscription. Cancel that in your Apple Account's subscription settings, or tap **Manage Subscription** in Settings.
 - **Erase what's on your device:** Settings → Data → **Reset Progress**, or delete the app. If you're signed in, Reset Progress also resets the progress saved with your account, but the account itself stays.
-- **Ask us:** email **ejbarness@icloud.com** to ask for a copy of the information connected to your account, to correct it, to delete it, or to have your RevenueCat record removed. Analytics events aren't linked to you or your account, so we usually can't tell which ones came from you. They're deleted automatically after 90 days.
+- **Ask us:** email **privacy@playglobi.com** to ask for a copy of the information connected to your account, to correct it, to delete it, or to have your RevenueCat record removed. Analytics events aren't linked to you or your account, so we usually can't tell which ones came from you. They're deleted automatically after 90 days.
 
 Depending on where you live, you may have other rights, such as the right to object to how we use your information or to complain to your local data-protection authority.
 
@@ -274,7 +274,7 @@ If that account was linked to RevenueCat, the device keeps the same RevenueCat I
 
 ### Parents
 
-If you're a parent or guardian and want your child's account deleted sooner, or your child made an account on an older version of the app, email **ejbarness@icloud.com** with the email address the account signs in with. For Sign in with Apple this may be an address ending in privaterelay.appleid.com, which your child's Apple Account settings show under Sign in with Apple. We'll delete the account, its leaderboard profile and synced progress, and, if you ask, its RevenueCat purchase record, and reply when it's done. We can't cancel a subscription for you: do that in your Apple Account's subscription settings.
+If you're a parent or guardian and want your child's account deleted sooner, or your child made an account on an older version of the app, email **privacy@playglobi.com** with the email address the account signs in with. For Sign in with Apple this may be an address ending in privaterelay.appleid.com, which your child's Apple Account settings show under Sign in with Apple. We'll delete the account, its leaderboard profile and synced progress, and, if you ask, its RevenueCat purchase record, and reply when it's done. We can't cancel a subscription for you: do that in your Apple Account's subscription settings.
 
 ## International transfers
 
@@ -302,4 +302,4 @@ The previous version, dated July 4, 2026, said the app had no analytics and didn
 
 ## Contact
 
-Questions or requests: **ejbarness@icloud.com**
+Questions or requests: **privacy@playglobi.com**

@@ -39,4 +39,4 @@ We may update these terms; continued use after an update constitutes acceptance.
 
 ## Contact
 
-Questions: **ejbarness@icloud.com**
+Questions: **support@playglobi.com**
