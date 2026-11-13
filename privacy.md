@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Globi Privacy Policy
 
-**Effective date: October 26, 2026**
+**Effective date: 13 November 2026**
 
 Globi ("the app") is a geography learning game. This policy explains what information the app collects, why, who receives it, how long it's kept, and the choices you have.
 
@@ -167,6 +167,10 @@ Small fixes and content updates can reach the app without a new App Store versio
 ### Connection information
 
 Whenever the app talks to Supabase, RevenueCat or Expo, those services receive standard connection information. This includes your IP address and, for Supabase when you're signed in, your sign-in session. They may keep this information in their own logs for security and operations. It travels over encrypted (HTTPS) connections.
+
+### 9. Our website
+
+**Our website.** The Globi Daily page at playglobi.com keeps your game in your browser's local storage: a random ID for the Daily, the days you played and your results. We don't use cookies, ad networks or analytics scripts. When you finish a puzzle, the page sends your result and that random ID to our database, which works like the app's Daily (results deleted after 90 days). If your browser sends Global Privacy Control, the link to the App Store leaves out the tag that tells us a visit came from the site. Our hosting provider, Cloudflare, handles the connection and sees your IP address as part of delivering the page. You can clear the stored ID by clearing site data in your browser.
 
 ## What we do NOT do
 
