@@ -17,7 +17,7 @@ Globi ("the app") is a geography learning game. This policy explains what inform
 - If you choose to create an account, we store your email address, the display name and avatar you pick, and your game progress. We use these to back up and sync your progress and to show you on the leaderboard.
 - Globi Pro subscriptions are paid through Apple and managed with a service called **RevenueCat**.
 - The Globi Daily page on our website keeps your game in your browser and sends your finished result to our database (section 9).
-- Globi has no ads, no advertising SDKs, no crash-reporting service and no third-party tracking, and we don't sell your information.
+- Globi has no ads, no advertising SDKs, no crash-reporting service and no third-party tracking other than the presence signal in section 9, and we don't sell your information.
 
 In this policy, **Settings** means the screen you open by tapping the gear icon on the **Profile** tab.
 
@@ -147,18 +147,20 @@ Whenever the app talks to Supabase or RevenueCat, those services receive standar
 
 ### 9. Our website
 
-**Our website.** The Globi Daily page at playglobi.com keeps your game in your browser's local storage. That means a random ID for the Daily, the days you played and your results. We don't use cookies, ad networks or analytics scripts.
+**Our website.** The Globi Daily page at playglobi.com keeps your game in your browser's local storage. That means a random ID for the Daily, the days you played and your results. We don't use cookies or ad networks.
 
 When you finish a puzzle, the page sends our database the puzzle number, how you did and that random browser ID. This happens for every visitor, because the page doesn't ask your age. We use it to count each result once and to show how you compare with other players. Your IP address isn't stored with your result. Results are deleted after 90 days.
 
 If you tap **Get my streak code**, we store a scrambled (hashed) copy of the code with your streak length. The code works once and is deleted after 24 hours.
+
+While a page on playglobi.com is open, it sends a small anonymous signal to the server of eugenebarnes.dev, the website of Globi's developer. That site uses it to show how many people are visiting right now. The signal holds a random number made when the page loads, the site name, the page address without anything after a question mark, the time, and a note when you leave the page. It sets no cookies and stores nothing in your browser. The server keeps only a scrambled copy of the random number and the page address, and deletes them after 60 seconds. We don't store your IP address or browser details for this. Your IP address still reaches that server and Cloudflare while the signal is delivered, as it does for any request to a website.
 
 If your browser sends Global Privacy Control, links to the App Store leave out the tag that tells us a visit came from the site. Our hosting provider, Cloudflare, handles the connection and sees your IP address as part of delivering the page. You can clear the stored ID by clearing site data in your browser.
 
 ## What we do NOT do
 
 - **No ads.** The app has no ad networks or advertising SDKs.
-- **No third-party tracking or analytics SDKs.** Our usage analytics go only to our own database (section 2). We don't track you across other companies' apps or websites, and we don't use your advertising ID (IDFA). The app never asks for App Tracking Transparency permission.
+- **No third-party tracking or analytics SDKs, other than the presence signal in section 9.** Our app's usage analytics go only to our own database (section 2). The website's presence signal is described in section 9. We don't track you across other companies' apps or websites, and we don't use your advertising ID (IDFA). The app never asks for App Tracking Transparency permission.
 - **No crash reporting service.**
 - **No selling.** We don't sell, rent or trade your information, and we don't share it with data brokers or advertisers.
 - **No marketing emails.**
